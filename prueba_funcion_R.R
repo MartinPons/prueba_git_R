@@ -5,3 +5,5 @@ hw <- function(){
 }
 
 paste0(hw, "Martin")
+
+data()
