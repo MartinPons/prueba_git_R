@@ -2,4 +2,6 @@
 
 hw <- function(){
   print("Hello world!")
-  }
+}
+
+paste0(hw, "Martin")
